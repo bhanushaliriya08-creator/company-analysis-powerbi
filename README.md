@@ -39,7 +39,7 @@ Provides insights into customer-related business performance.
 
 The original Power BI project file is available in this repository:
 
-`company_analysis[1].pbix`
+`company_analysis.pbix`
 
 ## Project Background
 
